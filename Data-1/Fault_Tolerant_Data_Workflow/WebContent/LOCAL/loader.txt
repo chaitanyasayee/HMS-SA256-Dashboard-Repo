@@ -1,0 +1,3 @@
+Loading GIF or, so called loader gif is an animation that indicates a loading process on a web-site or an application.
+Being an critically important part of web-site and application design and usability, 
+mostly the animations are used to show that something is loading on the background (e.g. AJAX applications).
